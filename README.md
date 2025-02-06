@@ -69,6 +69,6 @@ Contributions are welcome! Feel free to fork the repository, raise issues, or su
 This project is open-source under the MIT License.
 
 
-🔗 Large Files (Model & Video):
+🔗 Large Files (Model, Video & Project Documentation):
 
 Download trained models and the demo video here: https://drive.google.com/drive/folders/1Qv1-XGQkH_Nyibz2v_A3fVqL7ZDRbnN6?usp=sharing
