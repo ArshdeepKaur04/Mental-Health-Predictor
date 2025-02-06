@@ -23,6 +23,7 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 - Version Control & Deployment: GitHub
 
 📖 How to Use
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/mental-health-predictor.git
 cd mental-health-predictor
