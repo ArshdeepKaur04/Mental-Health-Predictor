@@ -25,7 +25,7 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 📖 How to Use
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/mental-health-predictor.git
+git clone https://github.com/ArshdeepKaur04/Mental-Health-Predictor.git
 cd mental-health-predictor
 
 2️⃣ Install Dependencies
