@@ -54,11 +54,13 @@ The model has been fine-tuned using labeled mental health datasets, and results 
 - Integrate with mental health APIs for additional resources.
 
 
-🤝 Contributing
+🤝 Contributing:
+
 Contributions are welcome! Feel free to fork the repository, raise issues, or submit pull requests.
 
 
-📝 License
+📝 License:
+
 This project is open-source under the MIT License.
 
 
