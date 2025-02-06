@@ -2,7 +2,8 @@ Mental Health Predictor:
 A Machine Learning & LLM-Based System for Mental Health Condition Detection and Explanation
 
 
-📌 Project Overview
+📌 Project Overview:
+
 Mental health is a crucial aspect of well-being, yet early detection and awareness remain challenging. This project presents an AI-driven mental health condition predictor that:
 - Classifies user input into categories such as Depression, Anxiety, Stress, Bipolar, Personality Disorder, Suicidal, or Normal.
 - Generates natural language explanations for the detected condition using a fine-tuned Mistral model.
@@ -10,7 +11,8 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 - Features a Streamlit-based UI for seamless user interaction.
 
 
-🚀 Key Features
+🚀 Key Features:
+
 - Text-Based Classification: Predicts mental health conditions from user input.
 - LLM-Generated Explanations: Uses a fine-tuned Mistral model for natural language explanations.
 - Coping Mechanisms & Suggestions: Provides recommendations to manage symptoms.
@@ -18,7 +20,8 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 - Open-Source & Expandable: Built using free, open-source LLMs and models for transparency and scalability.
 
 
-🔧 Tech Stack & Tools
+🔧 Tech Stack & Tools:
+
 - Natural Language Processing (NLP): Fine-tuned Mistral (via Ollama) & transformer models (T5)
 - Machine Learning Frameworks: PyTorch, Hugging Face Transformers
 - UI Implementation: Streamlit
@@ -26,7 +29,7 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 - Version Control & Deployment: GitHub
 
 
-📖 How to Use
+📖 How to Use:
 
 1️⃣ Clone the Repository
 
@@ -43,11 +46,13 @@ streamlit run ui/app.py
 Enter text describing your symptoms, and the model will predict the condition, generate an explanation, and suggest coping mechanisms.
 
 
-🏆 Results & Findings
+🏆 Results & Findings:
+
 The model has been fine-tuned using labeled mental health datasets, and results show high accuracy in detecting conditions. The fine-tuned Mistral model effectively generates contextual explanations and relevant coping strategies.
 
 
-🛠 Future Improvements
+🛠 Future Improvements:
+
 - Enhance dataset with more diverse and real-world inputs.
 - Optimize response personalization using retrieval-augmented generation (RAG).
 - Expand UI to include interactive visualization of mental health trends.
