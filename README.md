@@ -1,4 +1,4 @@
-Mental Health Predictor
+Mental Health Predictor:
 A Machine Learning & LLM-Based System for Mental Health Condition Detection and Explanation
 
 📌 Project Overview
