@@ -1,12 +1,14 @@
 Mental Health Predictor:
 A Machine Learning & LLM-Based System for Mental Health Condition Detection and Explanation
 
+
 📌 Project Overview
 Mental health is a crucial aspect of well-being, yet early detection and awareness remain challenging. This project presents an AI-driven mental health condition predictor that:
 - Classifies user input into categories such as Depression, Anxiety, Stress, Bipolar, Personality Disorder, Suicidal, or Normal.
 - Generates natural language explanations for the detected condition using a fine-tuned Mistral model.
 - Provides coping mechanisms and potential next steps based on the predicted mental health condition.
 - Features a Streamlit-based UI for seamless user interaction.
+
 
 🚀 Key Features
 - Text-Based Classification: Predicts mental health conditions from user input.
@@ -15,6 +17,7 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 - User-Friendly Interface: Interactive Streamlit UI for easy testing.
 - Open-Source & Expandable: Built using free, open-source LLMs and models for transparency and scalability.
 
+
 🔧 Tech Stack & Tools
 - Natural Language Processing (NLP): Fine-tuned Mistral (via Ollama) & transformer models (T5)
 - Machine Learning Frameworks: PyTorch, Hugging Face Transformers
@@ -22,10 +25,12 @@ Mental health is a crucial aspect of well-being, yet early detection and awarene
 - Model Training & Experimentation: Google Colab
 - Version Control & Deployment: GitHub
 
+
 📖 How to Use
 
 1️⃣ Clone the Repository
 git clone https://github.com/ArshdeepKaur04/Mental-Health-Predictor.git
+
 cd mental-health-predictor
 
 2️⃣ Install Dependencies
@@ -36,8 +41,10 @@ streamlit run ui/app.py
 
 Enter text describing your symptoms, and the model will predict the condition, generate an explanation, and suggest coping mechanisms.
 
+
 🏆 Results & Findings
 The model has been fine-tuned using labeled mental health datasets, and results show high accuracy in detecting conditions. The fine-tuned Mistral model effectively generates contextual explanations and relevant coping strategies.
+
 
 🛠 Future Improvements
 - Enhance dataset with more diverse and real-world inputs.
