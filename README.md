@@ -38,6 +38,9 @@ git clone https://github.com/ArshdeepKaur04/Mental-Health-Predictor.git
 cd mental-health-predictor
 
 2️⃣ Install Dependencies
+
+After cloning the repo, users can install all dependencies with:
+
 pip install -r requirements.txt
 
 3️⃣ Run the Streamlit App
