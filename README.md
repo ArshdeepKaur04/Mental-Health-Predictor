@@ -44,6 +44,7 @@ After cloning the repo, users can install all dependencies with:
 pip install -r requirements.txt
 
 3️⃣ Run the Streamlit App
+
 streamlit run ui/app.py
 
 Enter text describing your symptoms, and the model will predict the condition, generate an explanation, and suggest coping mechanisms.
